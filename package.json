@@ -1,0 +1,23 @@
+{
+  "name": "tiramisu-pwa-app",
+  "version": "1.0.0",
+  "description": "pwa app",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiki-her/tiramisu-pwa-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiki-her/tiramisu-pwa-app/issues"
+  },
+  "homepage": "https://github.com/Kiki-her/tiramisu-pwa-app#readme",
+  "dependencies": {
+    "serve": "^14.1.2"
+  }
+}
